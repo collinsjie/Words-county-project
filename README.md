@@ -1,1 +1,1 @@
-# Words-county-project
+# Words-counter-project
